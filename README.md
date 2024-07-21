@@ -36,19 +36,6 @@ The parameters in these source codes are as follows:
 
 Please, adjust the parameters as needed for your situation.
 
-## Demo
-<ins>Simulation<ins>
-
-Here's how you'd run these codes:
-
-<ins>Analysis<ins>
-
-
-
-
-
-## Result
-
 
 ## How to cite
 
