@@ -41,7 +41,7 @@ Please, adjust the parameters as needed for your situation.
 
 If you extend or use this work, please cite the [paper](https://ieeexplore.ieee.org/document/10464976) where it was introduced:
 ```
-@INPROCEEDINGS{10464976,
+@INPROCEEDINGS{Takahashi2023Coded,
   author={Takahashi, Yuhei and Masuo, Ippei and Song, Guanghui and Kimura, Tomotaka and Cheng, Jun},
   booktitle={2023 IEEE Globecom Workshops (GC Wkshps)}, 
   title={Coded Slotted ALOHA over Rayleigh Block Fading Channels: BP Threshold and Converse Bound}, 
